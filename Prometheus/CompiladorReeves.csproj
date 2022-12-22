@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE866458-3A0A-48CA-BB52-DD50A05BDCFE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LearnKode</RootNamespace>
+    <AssemblyName>LearnKode</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>434A4454F2A01EB3B2172641DD06E2FBEC29C38B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Prometheus_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="ConsoleControl, Version=1.3.0.0, Culture=neutral, PublicKeyToken=7edd23586f5e297f, processorArchitecture=MSIL">
+      <HintPath>..\packages\ConsoleControl.1.3.0\lib\net40-client\ConsoleControl.dll</HintPath>
+    </Reference>
+    <Reference Include="ConsoleControlAPI, Version=1.3.0.0, Culture=neutral, PublicKeyToken=7c86b8a36b9c33e2, processorArchitecture=MSIL">
+      <HintPath>..\packages\ConsoleControlAPI.1.3.0\lib\net40\ConsoleControlAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>..\..\TEXTBOX\FastColoredTextBox-master\FastColoredTextBox-master\Binary\FastColoredTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Irony">
+      <HintPath>..\..\Irony-master\Irony.Interpreter\bin\Debug\net40\Irony.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomButtons\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataType.cs" />
+    <Compile Include="DetallesErrorSemantico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesErrorSemantico.Designer.cs">
+      <DependentUpon>DetallesErrorSemantico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetallesErrorSintactico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesErrorSintactico.Designer.cs">
+      <DependentUpon>DetallesErrorSintactico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Irony\PrototypeParser.cs" />
+    <Compile Include="Irony\PrototypeGrammar.cs" />
+    <Compile Include="Irony\PrototypeSemantic.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuTutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuTutos.Designer.cs">
+      <DependentUpon>MenuTutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Token.cs" />
+    <Compile Include="TokenCode.cs" />
+    <Compile Include="TokenTable.cs" />
+    <Compile Include="TutorialLearnKode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TutorialLearnKode.Designer.cs">
+      <DependentUpon>TutorialLearnKode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TutorialTEA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TutorialTEA.Designer.cs">
+      <DependentUpon>TutorialTEA.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesErrorSemantico.resx">
+      <DependentUpon>DetallesErrorSemantico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesErrorSintactico.resx">
+      <DependentUpon>DetallesErrorSintactico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuTutos.resx">
+      <DependentUpon>MenuTutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TutorialLearnKode.resx">
+      <DependentUpon>TutorialLearnKode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TutorialTEA.resx">
+      <DependentUpon>TutorialTEA.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Prometheus_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\309c885e53e6141c40bf76889e706f5b-mochila-ni--o-saludo-personaje-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\{Lk}%3b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grupo 5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grupo 6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\{Lk}%3bsd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grupo 7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\times-solid %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window-maximize-regular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\times-ssdsdsdolid %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window-maxisdsdsdmize-regular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdssd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\times-ssdsdsdolid %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window-maxisdsdsdmize-regular1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdssd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-alt-solid %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comenzar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grupo 17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correcto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grupo 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portadax.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Console.ico" />
+    <None Include="Resources\logo3d.png" />
+    <None Include="Resources\Tutos\For\for_f.png" />
+    <None Include="Resources\Tutos\For\for_e.png" />
+    <None Include="Resources\Tutos\For\for_d.png" />
+    <None Include="Resources\Tutos\For\for_c.png" />
+    <None Include="Resources\Tutos\For\for_b.png" />
+    <None Include="Resources\Tutos\For\for_a.png" />
+    <None Include="Resources\Tutos\For\for_h.png" />
+    <None Include="Resources\Tutos\For\for_g.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_g.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_f.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_e.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_d.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_c.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_b.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_a.png" />
+    <None Include="Resources\Tutos\DoWhile\dowhile_h.png" />
+    <None Include="Resources\Tutos\While\while_c.png" />
+    <None Include="Resources\Tutos\While\while_b.png" />
+    <None Include="Resources\Tutos\While\while_a.png" />
+    <None Include="Resources\Tutos\While\while_g.png" />
+    <None Include="Resources\Tutos\While\while_f.png" />
+    <None Include="Resources\Tutos\While\while_e.png" />
+    <None Include="Resources\Tutos\While\while_d.png" />
+    <None Include="Resources\Tutos\Switch\switch_e.png" />
+    <None Include="Resources\Tutos\Switch\switch_d.png" />
+    <None Include="Resources\Tutos\Switch\switch_c.png" />
+    <None Include="Resources\Tutos\Switch\switch_b.png" />
+    <None Include="Resources\Tutos\Switch\switch_a.png" />
+    <None Include="Resources\Tutos\Switch\switch_i.png" />
+    <None Include="Resources\Tutos\Switch\switch_h.png" />
+    <None Include="Resources\Tutos\Switch\switch_g.png" />
+    <None Include="Resources\Tutos\Switch\switch_f.png" />
+    <None Include="Resources\Tutos\If\if_c.png" />
+    <None Include="Resources\Tutos\If\if_b.png" />
+    <None Include="Resources\Tutos\If\if_a.png" />
+    <None Include="Resources\Tutos\If\if_h.png" />
+    <None Include="Resources\Tutos\If\if_g.png" />
+    <None Include="Resources\Tutos\If\if_f.png" />
+    <None Include="Resources\Tutos\If\if_e.png" />
+    <None Include="Resources\Tutos\If\if_d.png" />
+    <None Include="Resources\Tutos\String\string_b.png" />
+    <None Include="Resources\Tutos\String\string_a.png" />
+    <None Include="Resources\Tutos\String\string_c.png" />
+    <None Include="Resources\Tutos\Scanner\scanner_c.png" />
+    <None Include="Resources\Tutos\Scanner\scanner_b.png" />
+    <None Include="Resources\Tutos\Scanner\scanner_a.png" />
+    <None Include="Resources\Tutos\Operadores\Operadores_b.png" />
+    <None Include="Resources\Tutos\Operadores\Operadores_a.png" />
+    <None Include="Resources\Tutos\Datos\datos_b.png" />
+    <None Include="Resources\Tutos\Datos\datos_a.png" />
+    <None Include="Resources\Tutos\Datos\datos_e.png" />
+    <None Include="Resources\Tutos\Datos\datos_d.png" />
+    <None Include="Resources\Tutos\Datos\datos_c.png" />
+    <None Include="Resources\Tutos\Variables\variables_a.png" />
+    <None Include="Resources\estudiar 1.png" />
+    <None Include="Resources\adelanteBtn.png" />
+    <None Include="Resources\atrasBtn.png" />
+    <None Include="Resources\estudiantes.png" />
+    <None Include="Resources\ComenzarBtn.png" />
+    <None Include="Resources\fondoInicio.png" />
+    <None Include="Resources\mascota.png" />
+    <None Include="Resources\mainFrame.jpeg" />
+    <None Include="Resources\LogoLowRes.jpeg" />
+    <None Include="Resources\tuto3.jpg" />
+    <None Include="Resources\tuto2.jpg" />
+    <None Include="Resources\tuto1.jpg" />
+    <None Include="Resources\tutoTEA1.png" />
+    <None Include="Resources\sus.png" />
+    <None Include="Resources\imagenerrorsintactico.png" />
+    <None Include="Resources\imagenerrorsemantico.png" />
+    <None Include="Resources\ilustracionsintactico.png" />
+    <None Include="Resources\ilustracionsemantico.png" />
+    <None Include="Resources\iconominimizarblanco.png" />
+    <None Include="Resources\iconomaximizarblanco.png" />
+    <None Include="Resources\iconocerrarblanco.png" />
+    <None Include="Resources\iconominimizar.png" />
+    <None Include="Resources\iconomaximizar.png" />
+    <None Include="Resources\iconocerrar.png" />
+    <None Include="Resources\Grupo 2.jpg" />
+    <None Include="Resources\Grupo 11.jpg" />
+    <None Include="Resources\Grupo 1.jpg" />
+    <None Include="Resources\PORTADA-INICIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

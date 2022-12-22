@@ -1,0 +1,121 @@
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.CoreCompileInputs.cache
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\KTDRAL\source\repos\Prometheus\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.CoreCompileInputs.cache
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\bin\Debug\Irony.dll
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\bin\Debug\Irony.pdb
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.CopyComplete
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\KTDRAL\Documents\VisualStudioCSharpProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.ResolveComReference.cache
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\bin\Debug\Irony.pdb
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.ResolveComReference.cache
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.Bienvenida.resources
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.CopyComplete
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\USER\Source\Repos\Prometheus\Prometheus\obj\Debug\Prometheus.Inicio.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.Bienvenida.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.Inicio.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.CoreCompileInputs.cache
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Irony.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.csproj.CopyComplete
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.Bienvenida.resources
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.Inicio.resources
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\Irony.pdb
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.CopyComplete
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\FastColoredTextBox.dll
+C:\Users\USER\Desktop\SEMANTICO\LearnKode\Prometheus\bin\Debug\FastColoredTextBox.xml
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\FastColoredTextBox.xml
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\Irony.pdb
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.Bienvenida.resources
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.Inicio.resources
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\FastColoredTextBox.xml
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\ConsoleControl.dll
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\ConsoleControlAPI.dll
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\ConsoleControl.xml
+C:\Users\usuario\Desktop\Proyectos\LearnKode\Prometheus\bin\Debug\ConsoleControlAPI.xml
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\ConsoleControl.dll
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\ConsoleControlAPI.dll
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\ConsoleControl.xml
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\ConsoleControlAPI.xml
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\FastColoredTextBox.xml
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\bin\Debug\Irony.pdb
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.Bienvenida.resources
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.Inicio.resources
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.MainForm.resources
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.Properties.Resources.resources
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.csproj.CopyComplete
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControlAPI.dll
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControl.xml
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControlAPI.xml
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.TutorialLearnKode.resources
+C:\Users\USER\Desktop\SEMANTICO\COMPILADOR LEARNKODE\LearnKode\Prometheus\obj\Debug\Prometheus.DetallesErrorSintactico.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.DetallesErrorSemantico.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.DetallesErrorSintactico.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControl.dll
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.TutorialLearnKode.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Prometheus.exe.manifest
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Prometheus.application
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.exe.manifest
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\Prometheus.application

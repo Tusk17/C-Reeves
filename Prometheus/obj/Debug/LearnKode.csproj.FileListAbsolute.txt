@@ -1,0 +1,77 @@
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.Properties.Resources.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.GenerateResource.cache
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.CoreCompileInputs.cache
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\LearnKode.exe.config
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\LearnKode.exe.manifest
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\LearnKode.application
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\LearnKode.exe
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\LearnKode.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControl.dll
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControlAPI.dll
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControl.xml
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\ConsoleControlAPI.xml
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\FastColoredTextBox.xml
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\bin\Debug\Irony.pdb
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.Bienvenida.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.DetallesErrorSemantico.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.DetallesErrorSintactico.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.Inicio.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.MainForm.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.TutorialLearnKode.resources
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.exe.manifest
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.application
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.CopyComplete
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.exe
+C:\Users\ktdral\Projects\VisualStudioProjects\Prometheus\Prometheus\obj\Debug\LearnKode.pdb
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\LearnKode.exe.config
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\LearnKode.exe.manifest
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\LearnKode.application
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\LearnKode.exe
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\LearnKode.pdb
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\ConsoleControl.dll
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\ConsoleControl.xml
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.Bienvenida.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.DetallesErrorSemantico.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.DetallesErrorSintactico.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.Inicio.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.MainForm.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.Properties.Resources.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.TutorialLearnKode.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.TutorialTEA.resources
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.GenerateResource.cache
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.exe.manifest
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.application
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.CopyComplete
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.exe
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.pdb
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos C V\Desktop\Prometheus\Prometheus\obj\Debug\LearnKode.MenuTutos.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\LearnKode.exe.config
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\LearnKode.exe.manifest
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\LearnKode.application
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\LearnKode.exe
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\LearnKode.pdb
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\ConsoleControl.dll
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\ConsoleControl.xml
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.Bienvenida.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.DetallesErrorSemantico.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.DetallesErrorSintactico.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.Inicio.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.MainForm.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.MenuTutos.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.Properties.Resources.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.TutorialLearnKode.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.TutorialTEA.resources
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.csproj.GenerateResource.cache
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.exe.manifest
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.application
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.csproj.CopyComplete
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.exe
+C:\Users\Juan Carlos C V\Desktop\Compilador Reeves\Prometheus\obj\Debug\LearnKode.pdb
